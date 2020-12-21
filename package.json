@@ -1,0 +1,26 @@
+{
+  "name": "2ratchetmessaging",
+  "version": "1.0.0",
+  "description": "Middleware for a double Ratchet Chat system that can easily be included",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joemay96/2RatchetMessaging.git"
+  },
+  "keywords": [
+    "messaging",
+    "secure",
+    "chat",
+    "Ratchet"
+  ],
+  "author": "joemay96",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joemay96/2RatchetMessaging/issues"
+  },
+  "homepage": "https://github.com/joemay96/2RatchetMessaging#readme"
+}

@@ -1,0 +1,7 @@
+Every Party has three Rachets.
+
+one DH Rachet which is for resetting. If some Key gets broken you are able to just exchange new ones.
+one send rachet which is synchron with the rec rachtet of the other party.
+one rec rachet which is synchron with the send rachet of the other party.
+
+KDF plays a big role in this,because you always make new keys, for every message send.
